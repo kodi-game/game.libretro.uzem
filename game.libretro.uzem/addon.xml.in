@@ -15,9 +15,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Uzebox (Uzem) v2.0</summary>
-		<description lang="en_GB">Uzem is the official emulator for the Uzebox (a retro-minimalist 8-bit open source game console).
-
-Supported files: .uze</description>
+		<description lang="en_GB">Uzem is the official emulator for the Uzebox (a retro-minimalist 8-bit open source game console).</description>
 		<license>MIT</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.uzem</source>
