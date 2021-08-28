@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "Uzem is the official emulator for the Uzebox (a retro-minimalist 8-bit open source game console)."
 msgstr ""
-
