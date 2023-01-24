@@ -13,7 +13,7 @@ MIT
 
 ### Icon
 
-![Icon](game.libretro.uzem/resources/icon.png)
+![Uzebox (Uzem) icon](game.libretro.uzem/resources/icon.png)
 
 ### Fanart
 
