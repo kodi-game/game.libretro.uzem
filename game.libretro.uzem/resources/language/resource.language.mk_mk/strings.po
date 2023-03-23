@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Uzebox (Uzem) v2.0"
+msgid "Uzebox (Uzem)"
 msgstr ""
 
 msgctxt "Addon Description"
