@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Uzebox (Uzem)</summary>
 		<summary lang="en_GB">Uzebox (Uzem)</summary>
 		<summary lang="es_ES">Uzebox (Uzem)</summary>
 		<description lang="da_DK">Uzem er den officielle emulator til Uzebox (en retro-minimalistisk 8-bit open source-spilkonsol).</description>
