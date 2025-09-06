@@ -26,6 +26,7 @@
 		<summary lang="es_ES">Uzebox (Uzem)</summary>
 		<summary lang="it_IT">Uzebox (Uzem)</summary>
 		<summary lang="ko_KR">Uzebox (우젬)</summary>
+		<summary lang="ru_RU">Uzebox (Uzem)</summary>
 		<summary lang="sv_SE">Uzebox (Uzem)</summary>
 		<summary lang="zh_CN">Uzebox (Uzem)</summary>
 		<description lang="da_DK">Uzem er den officielle emulator til Uzebox (en retro-minimalistisk 8-bit open source-spilkonsol).</description>
@@ -35,6 +36,7 @@
 		<description lang="fr_FR">Uzem est l&apos;émulateur officiel de l&apos;Uzebox (une console de jeu open source 8 bits rétro-minimaliste).</description>
 		<description lang="it_IT">Uzem è l&apos;emulatore ufficiale di Uzebox (una console di gioco open source a 8 bit retro-minimalista).</description>
 		<description lang="ko_KR">Uzem은 Uzebox(레트로 미니멀리스트 8비트 오픈 소스 게임 콘솔)의 공식 에뮬레이터입니다.</description>
+		<description lang="ru_RU">Uzem — официальный эмулятор Uzebox (ретро-минималистичной 8-битной игровой консоли с открытым исходным кодом).</description>
 		<description lang="sv_SE">Uzem är den officiella emulatorn för Uzebox (en retro-minimalistisk 8-bitars spelkonsol med öppen källkod).</description>
 		<description lang="zh_CN">Uzem 是 Uzebox（一款复古简约的8位开源游戏机）的官方模拟器。</description>
 	</extension>
