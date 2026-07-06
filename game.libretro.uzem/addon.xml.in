@@ -22,6 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="cs_CZ">Uzebox (Uzem)</summary>
 		<summary lang="da_DK">Uzebox (Uzem)</summary>
 		<summary lang="en_GB">Uzebox (Uzem)</summary>
 		<summary lang="es_ES">Uzebox (Uzem)</summary>
@@ -31,6 +32,7 @@
 		<summary lang="ru_RU">Uzebox (Uzem)</summary>
 		<summary lang="sv_SE">Uzebox (Uzem)</summary>
 		<summary lang="zh_CN">Uzebox (Uzem)</summary>
+		<description lang="cs_CZ">Uzem je oficiální emulátor konzole Uzebox (retro-minimalistická 8bitová open-source herní konzole).</description>
 		<description lang="da_DK">Uzem er den officielle emulator til Uzebox (en retro-minimalistisk 8-bit open source-spilkonsol).</description>
 		<description lang="de_DE">Uzem ist der offizielle Emulator für die Uzebox (eine retro-minimalistische 8-Bit-Open-Source-Spielekonsole).</description>
 		<description lang="en_GB">Uzem is the official emulator for the Uzebox (a retro-minimalist 8-bit open source game console).</description>
