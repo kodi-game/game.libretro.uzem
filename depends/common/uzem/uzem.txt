@@ -1,1 +1,1 @@
-uzem https://github.com/libretro/libretro-uzem/archive/d4fe82c38bf3fc789b955bcfcc81dc2e3a2ea89f.tar.gz
+uzem https://github.com/libretro/libretro-uzem/archive/d991ee94547c8294abc1c4cb73d63116aa58b5bc.tar.gz
